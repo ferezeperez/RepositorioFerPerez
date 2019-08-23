@@ -1,0 +1,9 @@
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Release\frmBuscandoAD.exe.config
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Release\frmBuscandoAD.exe
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Release\frmBuscandoAD.pdb
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Release\frmBuscandoAD.Form1.resources
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Release\frmBuscandoAD.Properties.Resources.resources
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Release\frmBuscandoAD.csproj.GenerateResource.cache
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Release\frmBuscandoAD.csproj.CoreCompileInputs.cache
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Release\frmBuscandoAD.exe
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Release\frmBuscandoAD.pdb

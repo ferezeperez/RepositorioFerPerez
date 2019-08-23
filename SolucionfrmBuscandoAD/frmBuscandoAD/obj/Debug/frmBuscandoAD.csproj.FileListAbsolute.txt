@@ -1,0 +1,20 @@
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Debug\frmBuscandoAD.exe.config
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Debug\frmBuscandoAD.exe
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Debug\frmBuscandoAD.pdb
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.Form1.resources
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.Properties.Resources.resources
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.csproj.GenerateResource.cache
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.csproj.CoreCompileInputs.cache
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.exe
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.pdb
+C:\Users\ec0664\Downloads\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.csprojResolveAssemblyReference.cache
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Debug\frmBuscandoAD.exe.config
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Debug\frmBuscandoAD.exe
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\bin\Debug\frmBuscandoAD.pdb
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.csprojAssemblyReference.cache
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.Form1.resources
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.Properties.Resources.resources
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.csproj.GenerateResource.cache
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.csproj.CoreCompileInputs.cache
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.exe
+C:\Users\fer_e\Desktop\Proyectos Varios\SolucionfrmBuscandoAD\frmBuscandoAD\obj\Debug\frmBuscandoAD.pdb
