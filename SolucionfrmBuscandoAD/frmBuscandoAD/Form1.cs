@@ -79,7 +79,7 @@ namespace frmBuscandoAD
         {
             List<Usuario> rst = new List<Usuario>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
@@ -158,7 +158,7 @@ namespace frmBuscandoAD
         {
             List<UsuarioConsultaAD> rst = new List<UsuarioConsultaAD>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
@@ -293,7 +293,7 @@ namespace frmBuscandoAD
         {
             List<UsuarioMail> rst = new List<UsuarioMail>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
@@ -373,7 +373,7 @@ namespace frmBuscandoAD
         {
             List<ControlC> rst = new List<ControlC>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
@@ -495,7 +495,7 @@ namespace frmBuscandoAD
         {
             List<ControlSemanal> rst = new List<ControlSemanal>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
@@ -656,7 +656,7 @@ namespace frmBuscandoAD
         {
             List<Log> rst = new List<Log>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
@@ -804,7 +804,7 @@ namespace frmBuscandoAD
         {
             List<UsuarioADcompleto> rst = new List<UsuarioADcompleto>();
 
-            string DomainPath = "LDAP://DC=CENCOSUD,DC=corp";
+            string DomainPath = "LDAP://DC=BASE DE ACTIVE DIRECTORY,DC=EN LA CUAL CONSULTO";
             DirectoryEntry adSearchRoot = new DirectoryEntry(DomainPath);
             DirectorySearcher adSearcher = new DirectorySearcher(adSearchRoot);
             adSearcher.SizeLimit = 0;
