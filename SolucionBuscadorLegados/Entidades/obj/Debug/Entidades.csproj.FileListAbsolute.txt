@@ -1,0 +1,11 @@
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\Entidades\bin\Debug\Entidades.dll
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\Entidades\bin\Debug\Entidades.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.dll
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Entidades\bin\Debug\Entidades.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,11 @@
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\bin\Release\Logica.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\bin\Release\Logica.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\bin\Release\Datos.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\bin\Release\Entidades.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\bin\Release\Datos.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\bin\Release\Entidades.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\obj\Release\Logica.csprojResolveAssemblyReference.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\obj\Release\Logica.csproj.CoreCompileInputs.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\obj\Release\Logica.csproj.CopyComplete
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\obj\Release\Logica.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Logica\obj\Release\Logica.pdb

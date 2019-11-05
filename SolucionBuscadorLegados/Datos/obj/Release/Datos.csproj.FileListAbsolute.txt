@@ -1,0 +1,9 @@
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\bin\Release\Datos.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\bin\Release\Datos.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\bin\Release\Entidades.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\bin\Release\Entidades.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\obj\Release\Datos.csproj.CopyComplete
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\obj\Release\Datos.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\Datos\obj\Release\Datos.pdb

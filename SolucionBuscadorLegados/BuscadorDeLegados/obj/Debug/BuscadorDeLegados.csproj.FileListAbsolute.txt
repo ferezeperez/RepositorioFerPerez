@@ -1,0 +1,48 @@
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.exe.config
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.exe
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.pdb
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csprojAssemblyReference.cache
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmBuscadorDeLegados.resources
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.Properties.Resources.resources
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.GenerateResource.cache
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.CoreCompileInputs.cache
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.exe
+C:\Users\fer_e\OneDrive\Documentos\C# .net\C# .NET\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Entidades.dll
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Logica.dll
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Datos.dll
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Entidades.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Logica.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Datos.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csprojAssemblyReference.cache
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmBuscadorDeLegados.resources
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.Properties.Resources.resources
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.GenerateResource.cache
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.CoreCompileInputs.cache
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.CopyComplete
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.pdb
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.exe.config
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.exe
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.exe
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmMenu.resources
+C:\Users\fer\Downloads\SolucionBuscadorLegados-20190216T185342Z-001\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmMasivo.resources
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.exe.config
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.exe
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\BuscadorDeLegados.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Datos.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Entidades.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Logica.dll
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Datos.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Entidades.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\bin\Debug\Logica.pdb
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csprojResolveAssemblyReference.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmBuscadorDeLegados.resources
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmMasivo.resources
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.frmMenu.resources
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.Properties.Resources.resources
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.GenerateResource.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.CoreCompileInputs.cache
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.csproj.CopyComplete
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.exe
+C:\Users\ec0664\Downloads\SolucionBuscadorLegados\SolucionBuscadorLegados\BuscadorDeLegados\obj\Debug\BuscadorDeLegados.pdb
